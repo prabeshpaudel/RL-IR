@@ -1,9 +1,9 @@
 import random
 import matplotlib.pyplot as plot
 
-a = 0.6
-b = 0.4
-c = 0.35
+a = 0.9
+b = 0.9
+c = 0.3
 class RecyclingRobot:
 
     def __init__(self):
